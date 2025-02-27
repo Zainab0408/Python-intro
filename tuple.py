@@ -1,0 +1,8 @@
+my_tuple=(1,2,3)
+print(my_tuple)
+my_tuple=(1,2,3, "Zainab", 7.1)
+print(my_tuple)
+my_tuple=([1,2,3],[2,3,4])
+print(my_tuple)
+my_tuple=('B','A','L','T','M','Z','S')
+print(my_tuple[3])
